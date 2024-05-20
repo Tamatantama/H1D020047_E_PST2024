@@ -24,6 +24,6 @@ void loop() {
   digitalWrite(redLED,LOW);
   digitalWrite(yellowLED,LOW);
   digitalWrite(greenLED,HIGH);
-  delay(3000);
+  delay(2000);
 }
 
